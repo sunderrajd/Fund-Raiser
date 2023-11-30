@@ -1,4 +1,4 @@
-# FundRaiser Platform
+# **FundRaiser Platform**
 
 FundRaiser is a revolutionary platform designed to address the shortcomings of existing crowdfunding platforms. In the wake of the global pandemic, crowdfunding activities have gained significant momentum, enabling individuals and organizations to create campaigns for various projects, causes, or helping those in need. FundRaiser aims to provide enhanced security, transparency, and global accessibility to empower users to contribute to campaigns worldwide.
 
